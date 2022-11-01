@@ -1,6 +1,6 @@
 # Hi there I'm Segev👋
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SKLC1&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SKLC1&show_icons=true&theme=synthwave" />
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKLC1&layout=compact" /> 
 
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%234853D.svg"  align="left">
